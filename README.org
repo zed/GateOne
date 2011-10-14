@@ -1,0 +1,1 @@
+Browse GateOne docs on github: http://zed.github.com/GateOne
